@@ -1,3 +1,4 @@
 # gitattributes
-*.sql linguist-detectable
-*.txt linguist-language=Java
+*.sql linguist-detectable=true
+*.txt linguist-language=Batchfile
+system.prop linguist-language=INI
